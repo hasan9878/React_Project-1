@@ -1,1 +1,6 @@
 @import "tailwindcss";
+/* custom-font.css */
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
