@@ -3,6 +3,7 @@ import Navbar from './Component/Navbar'
 import Hero from './Component/Hero'
 import TrustedPartners from './Component/Trustedpartners'
 import Cards from './Component/Cards'
+import Train from './Component/Train'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     <Hero/>
     <TrustedPartners/>
     <Cards/>
+    <Train/>
 
     </>
   )
