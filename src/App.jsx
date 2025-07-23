@@ -7,6 +7,7 @@ import Train from './Component/Train'
 import Slider from './Component/Slider'
 import EfficiencyStatement from './Component/EfficiencyStatement'
 import Footer from './Component/footer'
+import  Copyright  from './Component/Copyright'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <Slider/>
     <EfficiencyStatement/>
     <Footer/>
+    <Copyright/>
 
     </>
   )
