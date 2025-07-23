@@ -1,4 +1,7 @@
 import React from "react";
+import Button from "@mui/material/Button";
+import NorthEastIcon from '@mui/icons-material/NorthEast'; // অ্যারো আইকন
+
 
 function Hero() {
   const Herotext = [
@@ -37,6 +40,7 @@ function Hero() {
 
             <button className="mt-6 bg-[#0FF1F6] text-[#002228] px-6 py-3 rounded-full font-semibold hover:bg-[#0cd3d7] transition-all duration-300 inline-flex items-center gap-2">
               {item.button}
+              <NorthEastIcon/>
             </button>
           </div>
         ))}
