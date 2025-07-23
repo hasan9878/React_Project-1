@@ -4,7 +4,7 @@ function Slider() {
   const SlideSection = [
     {
       id: 1,
-      image: "public/Group 9.png",
+      image: "/Group 9.png",
       text: "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
       h2: "John Doe",
       copyr: "Chief Strategy Officer @ Company"

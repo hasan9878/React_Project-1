@@ -16,7 +16,7 @@ function Hero() {
   return (
     <section
       className="relative w-full min-h-[80vh] items-start justify-start px-6 md:px-20 bg-cover bg-center text-white flex flex-col   md:items-start lg:items-start  md:justify-start lg:justify-start  "
-      style={{ backgroundImage: "url('/public/hero.png')" }}
+      style={{ backgroundImage: "url('/hero.png')" }}
     >
       {/* Overlay with bg color and opacity */}
       <div className="absolute inset-0 bg-[#002228] opacity-60 "></div>

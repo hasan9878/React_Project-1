@@ -1,11 +1,11 @@
 import React from "react";
 
 const logos = [
-  "/BackHub logo.png",
-  "/CableLabs logo.png",
-  "/EasyEuro logo.png",
-  "/DBS logo.png",
-  "/AMD logo.png", 
+  "/BackHub-logo.png",
+  "/CableLabs-logo.png",
+  "/EasyEuro-logo.png",
+  "/DBS-logo.png",
+  "/AMD-logo.png", 
 ];
 
 function TrustedPartners() {

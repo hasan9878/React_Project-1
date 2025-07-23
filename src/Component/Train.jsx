@@ -20,7 +20,7 @@ function Train() {
     <section className="relative w-full h-full min-h-screen bg-[#001F25] overflow-hidden flex items-center justify-center text-white ">
       {/* ✅ Full Background Image Rotated */}
       <img
-        src="public/hero.png"
+        src="/hero.png"
         alt="background design"
         className="absolute left-0 bottom-0 w-full h-full object-cover rotate-90 opacity-20 pointer-events-none select-none"
       />

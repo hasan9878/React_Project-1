@@ -4,7 +4,7 @@ import Button from "@mui/material/Button";
 
 
 function Footer() {
-  const Herotext = [
+  const Footertext = [
     {
       h5: "GET STARTED",
       h1: "Embrace the new era of outbound.",
@@ -22,7 +22,7 @@ function Footer() {
   return (
     <footer className="w-full py-16 px-4 md:px-0 flex justify-center items-center">
       <div className="text-center max-w-3xl">
-        {Herotext.map((item, index) => (
+        {Footertext.map((item, index) => (
           <div key={index} className="space-y-6">
             <h5 className="text-sm font-semibold text-[#0FF1F6] tracking-widest">{item.h5}</h5>
             <h1 className="text-3xl md:text-5xl font-bold text-white">{item.h1}</h1>
