@@ -4,6 +4,7 @@ import Hero from './Component/Hero'
 import TrustedPartners from './Component/Trustedpartners'
 import Cards from './Component/Cards'
 import Train from './Component/Train'
+import Slider from './Component/Slider'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
     <TrustedPartners/>
     <Cards/>
     <Train/>
+    <Slider/>
 
     </>
   )
