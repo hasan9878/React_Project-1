@@ -5,6 +5,7 @@ import TrustedPartners from './Component/Trustedpartners'
 import Cards from './Component/Cards'
 import Train from './Component/Train'
 import Slider from './Component/Slider'
+import EfficiencyStatement from './Component/EfficiencyStatement'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
     <Cards/>
     <Train/>
     <Slider/>
+    <EfficiencyStatement/>
 
     </>
   )
