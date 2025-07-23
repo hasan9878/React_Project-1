@@ -6,6 +6,7 @@ import Cards from './Component/Cards'
 import Train from './Component/Train'
 import Slider from './Component/Slider'
 import EfficiencyStatement from './Component/EfficiencyStatement'
+import Footer from './Component/footer'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Train/>
     <Slider/>
     <EfficiencyStatement/>
+    <Footer/>
 
     </>
   )
